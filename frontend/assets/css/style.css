@@ -1,0 +1,8 @@
+/* frontend/assets/css/style.css */
+/* EN: Minimal styling for setup and general pages */
+/* FA: استایل حداقلی برای صفحهٔ راه‌اندازی و صفحات عمومی */
+
+body { font-family: Tahoma, Arial, sans-serif; background: #f4f6f8; color: #222; direction: rtl; }
+.container { max-width: 760px; margin: 80px auto; background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
+h1 { margin-top: 0; }
+#status { margin-top: 12px; padding: 10px; background: #eef2ff; border-radius: 6px; }

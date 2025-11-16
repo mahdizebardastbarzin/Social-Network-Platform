@@ -1,0 +1,8 @@
+/* frontend/assets/css/admin.css */
+/* EN: Styles for admin dashboard page */
+/* FA: استایل‌ها برای صفحه داشبورد مدیریت */
+
+body { font-family: Tahoma, Arial, sans-serif; background: #f4f6f8; color: #222; direction: rtl; }
+.container { max-width: 960px; margin: 40px auto; background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
+h1 { margin-top: 0; }
+#adminContent { margin-top: 16px; }
